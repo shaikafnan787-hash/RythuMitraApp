@@ -449,29 +449,7 @@ screenshots/
 └── farmer_profile.png
 ```
 
-### Home Dashboard
 
-![Rythu Mitra Home Dashboard](C:\Users\shaik\Pictures\Screenshots\home.png)
-
-### AI Crop Scanner
-
-![AI Crop Scanner](C:\Users\shaik\Pictures\Screenshots\ai_crop_scanner.png)
-
-### AI Diagnosis Results
-
-![AI Diagnosis Results](C:\Users\shaik\Pictures\Screenshots\ai_diagnosis.png)
-
-### Crop Management
-
-![My Crops](C:\Users\shaik\Pictures\Screenshots\my_crops.png)
-
-### Weather Dashboard
-
-![Weather Dashboard](C:\Users\shaik\Pictures\Screenshots\weather_dashboard.png)
-
-### Smart Farmer Alerts
-
-![Smart Farmer Alerts](C:\Users\shaik\Pictures\Screenshots\smart_alerts.png)
 
 
 
