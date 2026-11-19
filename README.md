@@ -336,5 +336,5 @@ To generate the release or debug APK for distribution via WhatsApp or Telegram:
 ---
 
 <p align="center">
-  <b>రైతే దేశానికి వెన్నెముక — జై జవాన్, జై కిసాన్! 🌾🇮🇳</b>
+  <b>రైతే దేశానికి వెన్నెముక — జై జవాన్, జై కిసాన్! 🌾</b>
 </p>
