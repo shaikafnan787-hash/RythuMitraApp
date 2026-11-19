@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315067357009",
+    "project_id": "rythu-mitra-9fe11",
+    "storage_bucket": "rythu-mitra-9fe11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315067357009:android:f7c1397b44fa72359c6570",
+        "android_client_info": {
+          "package_name": "com.Afnan.rythumitraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5VgB0u7Oh3KfwG43dSWRpq_302b2p408"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

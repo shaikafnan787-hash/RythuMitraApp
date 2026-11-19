@@ -1,0 +1,56 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+app/release/
+release/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (contains local Android SDK path)
+local.properties
+
+# Proguard / R8 folder
+proguard/
+
+# Log Files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.externalNativeBuild
+.cxx/
+captures/
+.kotlin/
+
+# Keystore files, private keys & signing credentials
+*.jks
+*.keystore
+*.p12
+*.key
+*.pem
+signing.properties
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
