@@ -325,7 +325,7 @@ To generate the release or debug APK for distribution via WhatsApp or Telegram:
 
 ## 17. Author & Credits
 
-- **Developer:** [Shaik Afnan / Irshad](https://github.com/shaikafnan787-hash)
+- **Developer:** [Shaik Afnan ](https://github.com/shaikafnan787-hash)
 - **GitHub Profile:** [@shaikafnan787-hash](https://github.com/shaikafnan787-hash)
 - **GitHub Repository:** [RythuMitraApp](https://github.com/shaikafnan787-hash/RythuMitraApp)
 - **Special Thanks:**
